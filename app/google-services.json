@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283407024423",
+    "project_id": "fir-update-803ed",
+    "storage_bucket": "fir-update-803ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283407024423:android:ce2a986dfbe1774687e902",
+        "android_client_info": {
+          "package_name": "com.wtechweb.v2_update"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283407024423-kbo6gadjd0q81cg2cdbskqrp43ok54do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcswW-iEwqMdtnGkhQKHi1Nn5MaFfJBak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283407024423-kbo6gadjd0q81cg2cdbskqrp43ok54do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
